@@ -6,7 +6,7 @@ export const App = () => {
     <div className="App">
       <header className="App-header">
         <p>
-          hello Kseniya
+          hello
         </p>
       </header>
     </div>
